@@ -1,4 +1,4 @@
-# Alarm calling - temperature & light detection
+# Alarm calling - temperature & light detection (power supply)
 This code is part of server room power supply & temperature monitoring.
 Hardware side is based on Raspberry-pi.
 Software is based mainly by Python code.

@@ -1,4 +1,7 @@
-# License
+# Alarm calling - temperature & light detection
+This code is part of server room power supply & temperature monitoring.
+
+### License
 
 (The MIT License)
 
